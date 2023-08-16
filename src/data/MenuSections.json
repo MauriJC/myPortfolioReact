@@ -1,0 +1,22 @@
+[
+    {
+        "sectionName": "Home",
+        "id": 1
+    },
+    {
+        "sectionName": "About",
+        "id": 2
+    },
+    {
+        "sectionName": "Skills",
+        "id": 3
+    },
+    {
+        "sectionName": "Portfolio",
+        "id": 4
+    },
+    {
+        "sectionName": "Contact",
+        "id": 5
+    }
+]
