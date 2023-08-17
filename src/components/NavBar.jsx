@@ -11,7 +11,6 @@ const NavBar = () => {
         <h1>Portfolio.</h1>
         <ul>
           {menu}
-
         </ul>
 
     </div>
