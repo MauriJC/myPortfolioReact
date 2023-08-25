@@ -45,7 +45,7 @@
   width: 50%;
 }
 
-.NavBar ul li {
+.NavBar ul li a {
   font-weight: var(--bold-font);
   font-size: 1.2rem;
 }
