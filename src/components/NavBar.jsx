@@ -7,8 +7,7 @@ const NavBar = () => {
   const menu = menuItems.map(menuItem => {
     return (
       <li key={menuItem.id}>
-        <Link to={`/${menuItem.sectionName}`} style={{ textDecoration: 'none', fontWeight: 700,fontsize: '1.2rem', color:'#fdfffc'
-    }}>
+        <Link to={`/${menuItem.sectionName}`} style={{ textDecoration: 'none', fontWeight: 700,fontsize: '1.2rem', color:'#fdfffc'}}>
           {menuItem.sectionName}
         </Link>
       </li>
