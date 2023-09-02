@@ -18,7 +18,7 @@ const NavBar = () => {
 
   return (
     <div className="NavBar">
-      <h1>Portfolio.</h1>
+      <h1>MyPortfolio.</h1>
       <ul>
         {menu}
       </ul>
